@@ -1,16 +1,13 @@
-## Hi there 👋
+# *Bienvenidos a mi Readme 👋*
 
-<!--
-**ChaliSalsan10/ChaliSalsan10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Soy Cesar Salazar, estudiante de la carrera Tecnologías de la Información e Innovación Digital de la Universidad Politécnica de Aguascalientes.*
 
-Here are some ideas to get you started:
+## *Sobre mí 🚴🎮*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- *Tengo 21 años.*
+- *Me gusta practicar ciclismo de montaña.*
+- *Me gusta jugar videojuegos.*
+
+## *Imagen*
+
+![Ciclismo de montaña](images/ciclismo.jpg)
