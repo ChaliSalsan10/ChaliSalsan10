@@ -6,8 +6,6 @@
 
 - *Tengo 21 años.*
 - *Me gusta practicar ciclismo de montaña.*
-- *Me gusta jugar videojuegos.*
+- *Me gusta jugar videojuegos y ver la F1.*
 
-## *Imagen*
-
-![Ciclismo de montaña](images/ciclismo.jpg)
+![Texto alternativo](file:///Users/cesarsalazar/Downloads/temp_image_8451FDEA-1184-4A2A-BDFD-9DA4371A731D.jpg "Que rollo")
