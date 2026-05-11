@@ -10,4 +10,4 @@
 - *Siempre intentando aprender cosas nuevas cada dia!!.*
 
 
-<img width="700" height="500" alt="temp_image_8451FDEA-1184-4A2A-BDFD-9DA4371A731D" src="https://github.com/user-attachments/assets/19ee785f-edc0-4e10-9bb8-8cb9f9c7459f" />
+<img width="750" height="500" alt="temp_image_8451FDEA-1184-4A2A-BDFD-9DA4371A731D" src="https://github.com/user-attachments/assets/19ee785f-edc0-4e10-9bb8-8cb9f9c7459f" />
